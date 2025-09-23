@@ -1,1 +1,26 @@
-[{"name": "Amit Singh", "age": 20, "email": "amitsingh2023nepal@gmail.com", "pin": 1919, "accountNo.": 1234, "balance": 0}]
+[
+    {
+        "name": "Amit Singh",
+        "age": 19,
+        "email": "amitsingh2023nepal@gmail.com",
+        "pin": 1919,
+        "accountNo.": "y$29Fo6",
+        "balance": 306000
+    },
+    {
+        "name": "Divas Kuikhel",
+        "age": 19,
+        "email": "divas@gmail.com",
+        "pin": 4545,
+        "accountNo.": "$eVG647",
+        "balance": 50000
+    },
+    {
+        "name": "Bibha SIngh",
+        "age": 38,
+        "email": "bibhasingh@gmail.com",
+        "pin": 2323,
+        "accountNo.": "0!TWZ92",
+        "balance": 5000
+    }
+]
